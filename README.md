@@ -1,16 +1,15 @@
-## Hi there 👋
+ Я Богдан
 
-<!--
-**wentuu/wentuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Зараз я вивчаю розробку веб-додатків та працюю з Git.
+ У вільний час цікавлюся програмуванням.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###  Мої інструменти та навички:
+* **Мови:** HTML, CSS, JavaScript
+* **Інструменти:** Git, GitHub, VS Code, OpenServer
+
+---
+
+### 📊 Статистика GitHub:
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=wentuu&show_icons=true&theme=radical)
